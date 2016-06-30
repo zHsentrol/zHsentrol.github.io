@@ -1,0 +1,47 @@
+{
+  "res": true,
+  "errcode": -1,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 1,
+      "imgsrc": "/aihuangou/images/lucky-t1.png"
+    },
+    {
+      "id": 2,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    },
+    {
+      "id": 3,
+      "imgsrc": "/aihuangou/images/lucky-t1.png"
+    },
+    {
+      "id": 4,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    },
+    {
+      "id": 5,
+      "imgsrc": "/aihuangou/images/lucky-t1.png"
+    },
+    {
+      "id": 6,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    },
+    {
+      "id": 7,
+      "imgsrc": "/aihuangou/images/lucky-t1.png"
+    },
+    {
+      "id": 8,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    },
+    {
+      "id": 9,
+      "imgsrc": "/aihuangou/images/lucky-t1.png"
+    },
+    {
+      "id": 10,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    }
+  ]
+}

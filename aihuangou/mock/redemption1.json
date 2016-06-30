@@ -1,0 +1,19 @@
+{
+  "res": true,
+  "errcode": -1,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 1,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    },
+    {
+      "id": 2,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    },
+    {
+      "id": 3,
+      "imgsrc": "/aihuangou/images/lucky-t2.png"
+    }
+  ]
+}
